@@ -1,2 +1,2 @@
 # bookmarklets
-bookmarklets 4 school
+bookmarklets for school if you are bored or wanna have a little fun!
