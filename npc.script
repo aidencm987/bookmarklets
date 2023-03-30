@@ -1,4 +1,7 @@
-javascript: alert("Hello! My name is Bot1234"); 
-var name = prompt("What is your name?"); alert("Hello " + name +"!"); 
-var food = prompt("What is your favorite food " + name + "?"); 
+javascript:
+alert("Hello! My name is Bot1234");
+var name = prompt("What is your name?");
+alert("Hello " + name +"!");
+var food = prompt("What is your favorite food " + name + "?");
 alert("No way! " + food +" is my favorite food too!");
+alert('Thank you for using my bookmarklet!\nScripted by Aiden Mijal\nMy Github: https://github.com/aidencm987');
